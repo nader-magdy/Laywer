@@ -1,0 +1,16 @@
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Helper.dll.config
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Helper.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Helper.pdb
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\EntityFramework.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\EntityFramework.SqlServer.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Core.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Data.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Model.dll
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Core.pdb
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Data.pdb
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\Lawyer.Model.pdb
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\EntityFramework.xml
+D:\POC\Lawyer\Lawyer.Helper\bin\Debug\EntityFramework.SqlServer.xml
+D:\POC\Lawyer\Lawyer.Helper\obj\Debug\Lawyer.Helper.csprojResolveAssemblyReference.cache
+D:\POC\Lawyer\Lawyer.Helper\obj\Debug\Lawyer.Helper.dll
+D:\POC\Lawyer\Lawyer.Helper\obj\Debug\Lawyer.Helper.pdb
